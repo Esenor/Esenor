@@ -3,7 +3,7 @@
 Currently tech lead at Oliver’Store and I love:
 
 :construction: **Build stuff in JS, Typescript, Php**
-- node, React, Vue, Symfony
+- node, React, Vue, Symfony, Sylius
 
 :electric_plug: **Connect application together**
 - soa, esb, HTTP api, messaging, graphql
